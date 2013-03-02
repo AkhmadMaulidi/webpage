@@ -1,0 +1,80 @@
+#a{
+	width:990px;
+	background:#0fd3f6;
+	border-top-right-radius:30px; 
+	border-top-left-radius:30px
+}
+header{
+	background:#0fd3f6; 
+	width:990px; 
+	height:150px; 
+	margin-top:10px; 
+	border-top-right-radius:30px; 
+	border-top-left-radius:30px
+}
+.a{
+	font-family:forte, comic sans ms;
+	font-size:80px; 
+	color:#0e1fff
+}
+.b{
+	font-family:LotsOfDotz, comic sans ms; 
+	font-size:15px; 
+	color:red
+}
+.kuning{
+	border:2px solid yellow; float:left; width:326px; overflow:hidden
+}
+.c{
+	border:2px solid red; 
+	float:left; 
+	width:326px; 
+	overflow:hidden
+}
+.form{
+	width:700px;
+	height:1350px;
+	background:#0eadff;
+	margin-top:50px;
+	padding-top:-50px;
+	border-top-right-radius:15px;
+	border-top-left-radius:15px
+}
+
+.logo{
+	height:35px; width:35px; opacity:0.6;
+}
+.row{
+	text-align:center
+}
+.tabel_form{ 
+	font-family:comic sans ms; 
+	padding-top:100px
+}
+input[type="text"]{
+	background:#a3f1da;
+	border-radius:5px;
+	height:25px;
+	width:350px
+}
+input[type="radio"]{
+	
+}
+input[type="submit"]{
+	height:30px;
+	width:100px;
+	background:#0eadff;
+	cursor: pointer;
+	display: inline-block;
+	margin-left:450px;
+	margin-top:30px
+}
+input[type="submit"]:hover{
+	background: #048c8a;
+}
+.riwayat{
+	font-family:forte
+}
+li{
+	padding-top:10px
+}
